@@ -1,0 +1,198 @@
+# Site
+#repository: q163i/q163i.github.io
+#favicon: images/favicon.png
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Roman Litvinov
+title: DevOps Engineer | Site Reliability Engineer
+email: roman.o.litvinov@gmail.com
+#website: https://q163i.github.io
+
+# Dark Mode (true/false/never)
+darkmode: never
+
+# Social links
+#twitter_username: facespics
+github_username:  q163i
+# stackoverflow_username: "00000001"
+# dribbble_username: type_me
+# facebook_username: type_me
+# flickr_username: type_me
+#instagram_username: roman.o.litvinov
+linkedin_username: q163i
+# xing_username: type_me
+# pinterest_username: type_me
+#youtube_username: type_me
+# googleplus_username: +type_me
+# orcid_username: 0000-0000-0000-0000
+
+# Additional icon links
+additional_links:
+- title: telegram link
+  icon: fab fa-telegram
+  url: http://t.me/q163i
+- title: calendly link
+  icon: far fa-calendar
+  url: https://calendly.com/q163i
+
+# - title: another link
+#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
+#   url: Link url (eg. https://google.com)
+
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+# gtm: "GTM-0000000"
+# gtag: "UA-00000000-0"
+# google_analytics: "UA-00000000-0"
+
+# About Section
+# about_title: About Me
+about_profile_image: images/LITVINOV.jpg
+about_content: | # this will include new lines to allow paragraphs
+  Professional with a successful track record in designing, testing, and implementing robust infrastructure and applications. 
+  Recognized for exceptional responsibility and willingness to take on duties, with the ability to construct comprehensive IT systems from scratch. 
+  Proficient user of source control tools for detecting and promptly addressing code errors. Active participant in the OpenSource community, contributing to the development of open projects. 
+  A collaborative team player with excellent multitasking skills, dedicated to achieving optimal performance and reliability in the IT environment.
+
+  <mark>Proficient</mark>: Bash, Python, Helm
+  
+  <mark>IaC</mark>: Terraform, Terragrunt, Ansible, Chef, Puppet
+  
+  <mark>Containers</mark>: Docker, Kubernetes (hard-way,kubeadm,k3s), OpenShift
+  
+  <mark>Git + CI/CD</mark>: Gitlab, GitHub, Bitbucket, TeamCity, Jenkins, ArgoCD
+      
+  <mark>Repositories</mark>: DockerHub, Gitlab Registry, Nexus
+  
+  <mark>Databases</mark>: Oracle 12c, MS SQL Server, MySQL, MariaDB, PostgreSQL, MongoDB
+  
+  <mark>Clouds</mark>: AWS, Google Cloud, Cloud, Yandex + any Private Cloud
+  
+  <mark>Monitoring</mark>: Grafana, Zabbix, Prometheus, Graylog
+  
+  <mark>Networks</mark>: Cisco, F5, Mikrotik, D-link, Huawei
+  
+  <mark>Other</mark>: Windows, Linux, macOS, Redis, Kafka, RabbitMQ, ZooKeeper, Java, nodeJS, Go, vmWare ESXi, Hyper-V
+  
+  [Download my last full CV](https://docs.google.com/document/d/1-XY9JwoTGgD37XszxX4bXrCC1A7MHrBaoHLAsqxBMa8/edit?usp=share_link)
+
+content:
+  - title: Certificate's
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - SQL Server: Performance Tuning and Optimization 
+      - Microsoft SQL Server: AlwaysON Microsoft
+      - Windows Server Features Microsoft
+      - Azure Synapse SQL Pool - Implement Polybase
+      - SQL Server Features and Administration Microsoft
+      - Oracle Database 12c: Performance Management and Tuning 
+      - Oracle Database 12c R2: Administration Workshop Ed 3 PRV Oracle 
+      - HashiCorp Certified: Terraform Associate (003)*
+      - AWS Cloud Quest. Cloud Practitioner
+      - AWS Getting Started with DevOps
+      - AWS Cloud Quest: Practitioner Essentials 
+      - AWS Cloud Quest: Solutions Architect
+
+  - title: Community Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: center
+        title: watcher_bot
+        link_text: Infrastructure Bot
+        link: https://github.com/q163i/watcher_bot
+        additional_links:
+          - title:  q163i/watcher_bot
+            icon: fab fa-github
+            url: https://github.com/q163i/watcher_bot
+        description: | # this will include new lines to allow paragraphs
+          The Watcher Bot is a Telegram bot designed to monitor various aspects of your Kubernetes cluster and provide real-time notifications and insights. 
+          It offers several features tailored for DevOps and system administrators, making it a valuable tool for managing and maintaining Kubernetes environments.
+      - layout: center
+        title: terraform-associate
+        link_text: aws,gcp and other
+        link: https://github.com/q163i/terraform_associate
+        additional_links:
+          - title:  q163i/terraform_associate
+            icon: fab fa-github
+            url: https://github.com/q163i/terraform_associate
+        description: | # this will include new lines to allow paragraphs
+          The terraform modules
+  - title: Experience (last 3) # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Self Employed
+#        link:
+        sub_title: Site Reliability Engineer
+        caption: November 2023 - Now
+        description: | # this will include new lines to allow paragraphs
+          * Actively create and contribute to GitHub projects, demonstrating a continuous commitment to open-source collaboration and the development of innovative solutions.
+      - layout: left
+        title: InnoTech, IT Company
+#        link:
+        sub_title: Senior DevOps Engineer
+        caption: June 2023 - November 2023
+        description: | # this will include new lines to allow paragraphs
+          * Successfully migrated VMs to the target stack (Astra OS).
+          * Completed the migration of OpenShift to Kubernetes (k8s).
+          * Implemented Helm charts into the software development process, enhancing deployment efficiency.
+          * Thoroughly documented the end-to-end CI/CD process from the initial development phase to the commercial launch, providing typical examples for clarity.
+          * Authored an administrator's guide for the maintenance team, offering comprehensive instructions for managing the services effectively.
+      - layout: left
+        title: GazpromBank, Finance Company
+#        link:
+        sub_title: Chef DevOps Engineer
+        caption: November 2021 - April 2023
+        description: | # this will include new lines to allow paragraphs
+          * Successfully developed and implemented automated CI/CD processes for over 30 services on Java and nodeJS platforms, utilizing Gitlab CI+CD (Docker+OpenShift) and Ansible + TeamCity CI+CD.
+          * Responsible for infrastructure administration and scalability, resulting in deployment to 6 environments, including production, with an 80% reduction in deployment time.
+          * Automated over 50 processes within the support team, including Certificate Monitoring, server initialization, and other tasks.
+          * Conducted a seamless migration of Cassandra databases with minimal impact on system operations.
+          * Designed and implemented an automated process for managing HAproxy and Nginx load balancers, ensuring high availability and project performance.
+          * Introduced shared services to enhance collaboration between cross-functional teams.
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Samara State University
+        caption: 2010 - 2014
+        sub_title: Math
+      - layout: left
+        title: Samara State University of Economics
+        caption: 2014 - 2016
+        sub_title: Law
+#        quote: >
+#          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+#        description: | # this will include new lines to allow paragraphs
+#          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+#
+#          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+
+#  - title: A Little More About Me
+#    layout: text
+#    content: | # this will include new lines to allow paragraphs
+#      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+#      - Rock climbing
+#      - Gaming
+#      - Knitting
+#      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+
+#      Look at this cool image
+#      ![Trees](images/landscape-trees.jpg "Trees")
+
+# Footer
+footer_show_references: false
+# references_title: References on request (Override references text)
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
