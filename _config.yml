@@ -120,39 +120,39 @@ content:
             url: https://github.com/q163i/terraform_associate
         description: | # this will include new lines to allow paragraphs
           The terraform modules
-  - title: Experience (last 3) # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Self Employed
-#        link:
-        sub_title: Site Reliability Engineer
-        caption: November 2023 - Now
-        description: | # this will include new lines to allow paragraphs
-          * Actively create and contribute to GitHub projects, demonstrating a continuous commitment to open-source collaboration and the development of innovative solutions.
-      - layout: left
-        title: InnoTech, IT Company
-#        link:
-        sub_title: Senior DevOps Engineer
-        caption: June 2023 - November 2023
-        description: | # this will include new lines to allow paragraphs
-          * Successfully migrated VMs to the target stack (Astra OS).
-          * Completed the migration of OpenShift to Kubernetes (k8s).
-          * Implemented Helm charts into the software development process, enhancing deployment efficiency.
-          * Thoroughly documented the end-to-end CI/CD process from the initial development phase to the commercial launch, providing typical examples for clarity.
-          * Authored an administrator's guide for the maintenance team, offering comprehensive instructions for managing the services effectively.
-      - layout: left
-        title: GazpromBank, Finance Company
-#        link:
-        sub_title: Chef DevOps Engineer
-        caption: November 2021 - April 2023
-        description: | # this will include new lines to allow paragraphs
-          * Successfully developed and implemented automated CI/CD processes for over 30 services on Java and nodeJS platforms, utilizing Gitlab CI+CD (Docker+OpenShift) and Ansible + TeamCity CI+CD.
-          * Responsible for infrastructure administration and scalability, resulting in deployment to 6 environments, including production, with an 80% reduction in deployment time.
-          * Automated over 50 processes within the support team, including Certificate Monitoring, server initialization, and other tasks.
-          * Conducted a seamless migration of Cassandra databases with minimal impact on system operations.
-          * Designed and implemented an automated process for managing HAproxy and Nginx load balancers, ensuring high availability and project performance.
-          * Introduced shared services to enhance collaboration between cross-functional teams.
+#  - title: Experience (last 3) # Title for the section
+#    layout: list # Type of content section (list/text)
+#    content:
+#      - layout: left
+#        title: Self Employed
+##        link:
+#        sub_title: Site Reliability Engineer
+#        caption: November 2023 - Now
+#        description: | # this will include new lines to allow paragraphs
+#          * Actively create and contribute to GitHub projects, demonstrating a continuous commitment to open-source collaboration and the development of innovative solutions.
+#      - layout: left
+#        title: InnoTech
+##        link:
+#        sub_title: Senior DevOps Engineer
+#        caption: June 2023 - November 2023
+#        description: | # this will include new lines to allow paragraphs
+#          * Successfully migrated VMs to the target stack (Astra OS).
+#          * Completed the migration of OpenShift to Kubernetes (k8s).
+#          * Implemented Helm charts into the software development process, enhancing deployment efficiency.
+#          * Thoroughly documented the end-to-end CI/CD process from the initial development phase to the commercial launch, providing typical examples for clarity.
+#          * Authored an administrator's guide for the maintenance team, offering comprehensive instructions for managing the services effectively.
+#      - layout: left
+#        title: GPB
+##        link:
+#        sub_title: Chef DevOps Engineer
+#        caption: November 2021 - April 2023
+#        description: | # this will include new lines to allow paragraphs
+#          * Successfully developed and implemented automated CI/CD processes for over 30 services on Java and nodeJS platforms, utilizing Gitlab CI+CD (Docker+OpenShift) and Ansible + TeamCity CI+CD.
+#          * Responsible for infrastructure administration and scalability, resulting in deployment to 6 environments, including production, with an 80% reduction in deployment time.
+#          * Automated over 50 processes within the support team, including Certificate Monitoring, server initialization, and other tasks.
+#          * Conducted a seamless migration of Cassandra databases with minimal impact on system operations.
+#          * Designed and implemented an automated process for managing HAproxy and Nginx load balancers, ensuring high availability and project performance.
+#          * Introduced shared services to enhance collaboration between cross-functional teams.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
