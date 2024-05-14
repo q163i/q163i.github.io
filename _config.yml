@@ -52,30 +52,30 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/LITVINOV.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Professional with a successful track record in designing, testing, and implementing robust infrastructure and applications. 
-  Recognized for exceptional responsibility and willingness to take on duties, with the ability to construct comprehensive IT systems from scratch. 
-  Proficient user of source control tools for detecting and promptly addressing code errors. Active participant in the OpenSource community, contributing to the development of open projects. 
-  A collaborative team player with excellent multitasking skills, dedicated to achieving optimal performance and reliability in the IT environment.
-
-  <mark>Proficient</mark>: Bash, Python, Helm
+  Dynamic IT professional with a demonstrated track record in architecting and deploying resilient infrastructure and cutting-edge applications. 
+  Recognized for unwavering accountability and adeptness in crafting end-to-end IT ecosystems. 
+  Skilled in leveraging source control methodologies to identify and rectify coding discrepancies. 
+  Actively engaged in the Open Source sphere, championing contributions to communal projects. 
+  Collaborative team member known for adept multitasking, committed to delivering peak performance and unwavering reliability in IT landscapes.
   
-  <mark>IaC</mark>: Terraform, Terragrunt, Ansible, Chef, Puppet
+  <mark>IAC</mark>: Bash, Python, Terraform, Terragrunt, opentofu, Ansible, Puppet, Chef
   
-  <mark>Containers</mark>: Docker, Kubernetes (hard-way,kubeadm,k3s), OpenShift
   
-  <mark>Git + CI/CD</mark>: Gitlab, GitHub, Bitbucket, TeamCity, Jenkins, ArgoCD
+  <mark>Containers</mark>: Docker, containerd, Kubernetes (k8s), OpenShift, glasskube, Helm Charts
+  
+  <mark>Git + CI/CD</mark>: Gitlab, GitHub, Bitbucket, TeamCity, Jenkins, Argo-CD
       
-  <mark>Repositories</mark>: DockerHub, Gitlab Registry, Nexus
+  <mark>Repositories</mark>: DockerHub, Gitlab Registry, Nexus Registry, Artifactory Registry
   
   <mark>Databases</mark>: Oracle 12c, MS SQL Server, MySQL, MariaDB, PostgreSQL, MongoDB
   
   <mark>Clouds</mark>: AWS, Google Cloud, Cloud, Yandex + any Private Cloud
   
-  <mark>Monitoring</mark>: Grafana, Zabbix, Prometheus, Graylog
+  <mark>Monitoring</mark>: Grafana, Zabbix, Prometheus, Graylog, uptime-kuma
   
   <mark>Networks</mark>: Cisco, F5, Mikrotik, D-link, Huawei
   
-  <mark>Other</mark>: Windows, Linux, macOS, Redis, Kafka, RabbitMQ, ZooKeeper, Java, nodeJS, Go, vmWare ESXi, Hyper-V
+  <mark>Other</mark>: Windows, Linux, macOS, Redis, Kafka, RabbitMQ, ZooKeeper, Java, nodeJS, Go, VMware ESXi, Hyper-V, Jira, methodology the twelve-factor app
   
   [Download my last full CV](https://docs.google.com/document/d/1-XY9JwoTGgD37XszxX4bXrCC1A7MHrBaoHLAsqxBMa8/edit?usp=share_link)
 
