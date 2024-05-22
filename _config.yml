@@ -52,12 +52,13 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/LITVINOV.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Dynamic IT professional with a demonstrated track record in architecting and deploying resilient infrastructure and cutting-edge applications. 
-  Recognized for unwavering accountability and adeptness in crafting end-to-end IT ecosystems. 
+  Dynamic IT professional with a proven track record in architecting and deploying resilient infrastructure and cutting-edge applications. 
+  Known for unwavering accountability and expertise in crafting end-to-end IT ecosystems. 
   Skilled in leveraging source control methodologies to identify and rectify coding discrepancies. 
-  Actively engaged in the Open Source sphere, championing contributions to communal projects. 
-  Collaborative team member known for adept multitasking, committed to delivering peak performance and unwavering reliability in IT landscapes.
-  
+  Actively engaged in the Open Source community, contributing to collaborative projects. 
+  A collaborative team player recognized for adept multitasking, committed to delivering peak performance and reliability in IT environments. Menthor and tech writer.
+
+
   <mark>Scripting</mark>: Bash, Python, PowerShell, Ruby, Groovy, YAML, JSON
   
   <mark>IAC</mark>: Terraform, Terragrunt, OpenTofu, Ansible, Puppet
@@ -76,7 +77,9 @@ about_content: | # this will include new lines to allow paragraphs
   
   <mark>Networks</mark>: vIP, NLB, LB, F5
   
-  <mark>Other</mark>: Windows, Linux, macOS, Redis, Kafka, RabbitMQ, ZooKeeper, Java, nodeJS, Go, VMware ESXi, NSX-T(V), Hyper-V, Jira, <mark>methodology the twelve-factor app</mark>
+  <mark>Other</mark>: Windows, Linux, macOS, Redis, Kafka, RabbitMQ, ZooKeeper, Java, nodeJS, Go, VMware ESXi, NSX-T(V), Hyper-V, Jira
+  
+  <mark>Methodology the twelve-factor app</mark>
   
   [Download my last full CV](https://docs.google.com/document/d/1-XY9JwoTGgD37XszxX4bXrCC1A7MHrBaoHLAsqxBMa8/edit?usp=share_link)
 
