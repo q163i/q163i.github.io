@@ -58,24 +58,25 @@ about_content: | # this will include new lines to allow paragraphs
   Actively engaged in the Open Source sphere, championing contributions to communal projects. 
   Collaborative team member known for adept multitasking, committed to delivering peak performance and unwavering reliability in IT landscapes.
   
-  <mark>IAC</mark>: Bash, Python, Terraform, Terragrunt, opentofu, Ansible, Puppet, Chef
+  <mark>Scripting</mark>: Bash, Python, PowerShell, Ruby, Groovy, YAML, JSON
   
+  <mark>IAC</mark>: Terraform, Terragrunt, OpenTofu, Ansible, Puppet
   
   <mark>Containers</mark>: Docker, containerd, Kubernetes (k8s), OpenShift, glasskube, Helm Charts
   
-  <mark>Git + CI/CD</mark>: Gitlab, GitHub, Bitbucket, TeamCity, Jenkins, Argo-CD
+  <mark>Git + CI/CD</mark>: Gitlab, GitHub, Bitbucket, TeamCity, Jenkins, Argo-CD, Helm Operator
       
-  <mark>Repositories</mark>: DockerHub, Gitlab Registry, Nexus Registry, Artifactory Registry
+  <mark>Repositories</mark>: DockerHub, Gitlab Registry, Nexus Registry, Artifactory
   
   <mark>Databases</mark>: Oracle 12c, MS SQL Server, MySQL, MariaDB, PostgreSQL, MongoDB
   
-  <mark>Clouds</mark>: AWS, Google Cloud, Cloud, Yandex + any Private Cloud
+  <mark>Clouds</mark>: AWS, Google Cloud Platform, Azure, Yandex + any Private Cloud
   
   <mark>Monitoring</mark>: Grafana, Zabbix, Prometheus, Graylog, uptime-kuma
   
-  <mark>Networks</mark>: Cisco, F5, Mikrotik, D-link, Huawei
+  <mark>Networks</mark>: vIP, NLB, LB, F5
   
-  <mark>Other</mark>: Windows, Linux, macOS, Redis, Kafka, RabbitMQ, ZooKeeper, Java, nodeJS, Go, VMware ESXi, Hyper-V, Jira, methodology the twelve-factor app
+  <mark>Other</mark>: Windows, Linux, macOS, Redis, Kafka, RabbitMQ, ZooKeeper, Java, nodeJS, Go, VMware ESXi, NSX-T(V), Hyper-V, Jira, <mark>methodology the twelve-factor app</mark>
   
   [Download my last full CV](https://docs.google.com/document/d/1-XY9JwoTGgD37XszxX4bXrCC1A7MHrBaoHLAsqxBMa8/edit?usp=share_link)
 
@@ -110,16 +111,16 @@ content:
         description: | # this will include new lines to allow paragraphs
           The Watcher Bot is a Telegram bot designed to monitor various aspects of your Kubernetes cluster and provide real-time notifications and insights. 
           It offers several features tailored for DevOps and system administrators, making it a valuable tool for managing and maintaining Kubernetes environments.
-      - layout: center
-        title: terraform-associate
-        link_text: aws,gcp and other
-        link: https://github.com/q163i/terraform_associate
-        additional_links:
-          - title:  q163i/terraform_associate
-            icon: fab fa-github
-            url: https://github.com/q163i/terraform_associate
-        description: | # this will include new lines to allow paragraphs
-          The terraform modules
+#      - layout: center
+#        title: terraform-associate
+#        link_text: aws,gcp and other
+#        link: https://github.com/q163i/terraform_associate
+#        additional_links:
+#          - title:  q163i/terraform_associate
+#            icon: fab fa-github
+#            url: https://github.com/q163i/terraform_associate
+#        description: | # this will include new lines to allow paragraphs
+#          The terraform modules
 #  - title: Experience (last 3) # Title for the section
 #    layout: list # Type of content section (list/text)
 #    content:
@@ -129,30 +130,21 @@ content:
 #        sub_title: Site Reliability Engineer
 #        caption: November 2023 - Now
 #        description: | # this will include new lines to allow paragraphs
-#          * Actively create and contribute to GitHub projects, demonstrating a continuous commitment to open-source collaboration and the development of innovative solutions.
-#      - layout: left
+#          Proactively initiate and contribute to GitHub initiatives, showcasing an ongoing dedication to collaborative open-source endeavors and the advancement of pioneering solutions.#      - layout: left
 #        title: InnoTech
 ##        link:
-#        sub_title: Senior DevOps Engineer
+#        sub_title: Lead DevOps Engineer
 #        caption: June 2023 - November 2023
 #        description: | # this will include new lines to allow paragraphs
-#          * Successfully migrated VMs to the target stack (Astra OS).
-#          * Completed the migration of OpenShift to Kubernetes (k8s).
-#          * Implemented Helm charts into the software development process, enhancing deployment efficiency.
-#          * Thoroughly documented the end-to-end CI/CD process from the initial development phase to the commercial launch, providing typical examples for clarity.
-#          * Authored an administrator's guide for the maintenance team, offering comprehensive instructions for managing the services effectively.
+#            Effectively transitioned VMs to Astra OS and executed the migration of OpenShift to
+#            Kubernetes (k8s). Enhanced deployment efficacy through the integration of Helm charts into the software development lifecycle. Methodically documented the complete CI/CD workflow from inception to product launch, furnishing illustrative examples for clarity. Crafted a detailed administrator's guide for the maintenance team, furnishing instructions for efficient service management.
 #      - layout: left
 #        title: GPB
 ##        link:
-#        sub_title: Chef DevOps Engineer
+#        sub_title: Lead DevOps Engineer
 #        caption: November 2021 - April 2023
 #        description: | # this will include new lines to allow paragraphs
-#          * Successfully developed and implemented automated CI/CD processes for over 30 services on Java and nodeJS platforms, utilizing Gitlab CI+CD (Docker+OpenShift) and Ansible + TeamCity CI+CD.
-#          * Responsible for infrastructure administration and scalability, resulting in deployment to 6 environments, including production, with an 80% reduction in deployment time.
-#          * Automated over 50 processes within the support team, including Certificate Monitoring, server initialization, and other tasks.
-#          * Conducted a seamless migration of Cassandra databases with minimal impact on system operations.
-#          * Designed and implemented an automated process for managing HAproxy and Nginx load balancers, ensuring high availability and project performance.
-#          * Introduced shared services to enhance collaboration between cross-functional teams.
+#          Proficiently designed and deployed automated CI/CD pipelines for more than 30 services across Java and Node.js platforms, leveraging Gitlab CI+CD (Docker+OpenShift) and Ansible + TeamCity CI+CD. Optimized infrastructure management and scalability, facilitating deployment across 6 environments, inclusive of production, with an impressive 80% reduction in deployment duration. Streamlined over 50 support team procedures, encompassing Certificate Monitoring, server initialization, and various operational tasks. Orchestrated a seamless migration of Cassandra databases with minimal operational disruption. Engineered and enacted an automated mechanism for managing HAproxy and Nginx load balancers, ensuring robust project performance and high availability.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
