@@ -59,29 +59,29 @@ about_content: | # this will include new lines to allow paragraphs
   A collaborative team player recognized for adept multitasking, committed to delivering peak performance and reliability in IT environments. Menthor and tech writer.
 
 
-  <mark>Scripting</mark>: Bash, Python, PowerShell, Ruby, Groovy, YAML, JSON
+  <mark>Scripting</mark>: Bash, Python, jinja2
   
-  <mark>IAC</mark>: Terraform, Terragrunt, OpenTofu, Ansible, Puppet
+  <mark>IAC</mark>: Terraform, Terragrunt, OpenTofu, Ansible, Puppet, Chef
   
   <mark>Containers</mark>: Docker, containerd, Kubernetes (k8s), OpenShift, glasskube, Helm Charts
   
-  <mark>Git + CI/CD</mark>: Gitlab, GitHub, Bitbucket, TeamCity, Jenkins, Argo-CD, Helm Operator
+  <mark>Git + CI/CD</mark>: Gitlab, GitHub, Bitbucket, TeamCity, Jenkins, Argo-CD, Helm Operator, FluxCD
       
   <mark>Repositories</mark>: DockerHub, Gitlab Registry, Nexus Registry, Artifactory
   
-  <mark>Databases</mark>: Oracle 12c, MS SQL Server, MySQL, MariaDB, PostgreSQL, MongoDB
+  <mark>Databases</mark>: Oracle 12c, MS SQL Server, MySQL, MariaDB, PostgreSQL, MongoDB, Cassandra, Redis
   
-  <mark>Clouds</mark>: AWS, Google Cloud Platform, Azure, Yandex + any Private Cloud
+  <mark>Clouds</mark>: AWS, Google Cloud Platform, Azure, Yandex, OVH Cloud + any Private Cloud
   
-  <mark>Monitoring</mark>: Grafana, Zabbix, Prometheus, Graylog, uptime-kuma
+  <mark>Monitoring</mark>: Grafana, Zabbix, Prometheus, Graylog, uptime-kuma, ELK, Splunk
   
-  <mark>Networks</mark>: vIP, NLB, LB, F5
+  <mark>Networks</mark>: vIP, NLB, LB, F5, Ingress, Egress, Edge, 
   
-  <mark>Other</mark>: Windows, Linux, macOS, Redis, Kafka, RabbitMQ, ZooKeeper, Java, nodeJS, Go, VMware ESXi, NSX-T(V), Hyper-V, Jira
+  <mark>Other</mark>: Windows, Linux, macOS, Redis, Kafka, RabbitMQ, ZooKeeper, Java, nodeJS, Go, VMware ESXi, NSX-T(V), Hyper-V, Jira, Notion, OpenAI, Whisper, Google Auth
   
   <mark>Methodology the twelve-factor app</mark>
   
-  [Download my last full CV](https://docs.google.com/document/d/1-XY9JwoTGgD37XszxX4bXrCC1A7MHrBaoHLAsqxBMa8/edit?usp=share_link)
+  [Download my last full CV](https://docs.google.com/document/d/1qG3fImpZ-z5foTgRMgcidjzOew18ZOcwlw04sVlBbvI/edit?usp=sharing)
 
 content:
   - title: Certificate's
@@ -154,11 +154,11 @@ content:
       - layout: left
         title: Samara State University
         caption: 2010 - 2014
-        sub_title: Math
+        sub_title: Bachelor Math
       - layout: left
         title: Samara State University of Economics
         caption: 2014 - 2016
-        sub_title: Law
+        sub_title: Master Law
 #        quote: >
 #          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
 #        description: | # this will include new lines to allow paragraphs
