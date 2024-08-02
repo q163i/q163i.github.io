@@ -52,35 +52,30 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/LITVINOV.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Dynamic IT professional with a proven track record in architecting and deploying resilient infrastructure and cutting-edge applications. 
-  Known for unwavering accountability and expertise in crafting end-to-end IT ecosystems. 
-  Skilled in leveraging source control methodologies to identify and rectify coding discrepancies. 
-  Actively engaged in the Open Source community, contributing to collaborative projects. 
-  A collaborative team player recognized for adept multitasking, committed to delivering peak performance and reliability in IT environments. Menthor and tech writer.
-
-
-  <mark>Scripting</mark>: Bash, Python, jinja2
+  Experienced Senior DevOps Engineer with 8 years in disaster recovery, CI/CD pipelines, and team leadership. Achieved up to 40% system
+  performance improvement, 80% reduction in deployment times, and 90% boost in team productivity. Dynamic and results-driven. Exactly the
+  engineer you need.
   
-  <mark>IAC</mark>: Terraform, Terragrunt, OpenTofu, Ansible, Puppet, Chef
+  <mark>Programming Languages</mark>: Bash, Python, Java, JavaScript, Go
   
-  <mark>Containers</mark>: Docker, containerd, Kubernetes (k8s), OpenShift, glasskube, Helm Charts
+  <mark>IaC (Infrastructure as Code)</mark>: Terraform, Terragrunt, OpenTofu, Ansible, Puppet, Chef
   
-  <mark>Git + CI/CD</mark>: Gitlab, GitHub, Bitbucket, TeamCity, Jenkins, Argo-CD, Helm Operator, FluxCD
+  <mark>Containers & Orchestration:</mark>: Docker, containerd, Podman, Kubernetes (k8s, k3s), OpenShift, Glasscube
+  
+  <mark>Git + CI/CD</mark>: GitLab, GitHub Actions, Bitbucket, TeamCity, Jenkins, Argo CD
       
-  <mark>Repositories</mark>: DockerHub, Gitlab Registry, Nexus Registry, Artifactory
+  <mark>Repositories</mark>: DockerHub, GitLab Registry, Nexus Registry, Artifactory, GitHub Packages
   
-  <mark>Databases</mark>: Oracle 12c, MS SQL Server, MySQL, MariaDB, PostgreSQL, MongoDB, Cassandra, Redis
+  <mark>Databases</mark>: Oracle 12c, MS SQL Server, MySQL, MariaDB, PostgreSQL (Patroni), MongoDB, Metabase (GUI)
   
-  <mark>Clouds</mark>: AWS, Google Cloud Platform, Azure, Yandex, OVH Cloud + any Private Cloud
+  <mark>Cloud Platforms:</mark>: AWS, Google Cloud Platform, Azure, Yandex Cloud, OVH, Cloudflare, Private Clouds
   
-  <mark>Monitoring</mark>: Grafana, Zabbix, Prometheus, Graylog, uptime-kuma, ELK, Splunk
+  <mark>Monitoring & Logging:</mark>: Grafana (Loki), Zabbix, Prometheus,Graylog, Uptime Kuma, Kibana, Fluent Bit
   
-  <mark>Networks</mark>: vIP, NLB, LB, F5, Ingress, Egress, Edge, 
+  <mark>Networking</mark>: vIP , NLB, LB, F5, Ingress, Egress
   
-  <mark>Other</mark>: Windows, Linux, macOS, Redis, Kafka, RabbitMQ, ZooKeeper, Java, nodeJS, Go, VMware ESXi, NSX-T(V), Hyper-V, Jira, Notion, OpenAI, Whisper, Google Auth
-  
-  <mark>Methodology the twelve-factor app</mark>
-  
+  <mark>Additional Tools & Technologies:</mark>: Windows, Linux, macOS, VMware ESXi, NSX-T , Hyper-V, Redis, Kafka, RabbitMQ, ZooKeeper, Jira, Notion, S3, Trivy, Snyk, OpenAI, Whisper, Twelve-Factor App Methodology
+
   [Download my last full CV](https://docs.google.com/document/d/1kDngYAP8Ag_7t9Fkd_6H1GPQ3YMk3s5db93BknTY2x4/edit?usp=sharing)
 
 content:
