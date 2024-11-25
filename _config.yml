@@ -52,8 +52,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/LITVINOV.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Experienced Senior DevOps Engineer with 9 years in disaster recovery, CI/CD pipelines, and team leadership. Dynamic and results-driven.
-  “Exactly the engineer you need”
+  Experienced Head of DevOps with 9 years of expertise in managing application lifecycle, cloud strategy, and migration processes.
+  Demonstrates a strong track record in building and leading high-performing teams, establishing streamlined CI/CD processes, particularly within the GameDev industry.
+  Skilled in designing scalable cloud services using Kubernetes and IaC, with a deep focus on implementing DevSecOps, FinOps, and GitOps strategies.
   
   <mark>Programming Languages</mark>: Bash, Python, Java, JavaScript, Go
   
