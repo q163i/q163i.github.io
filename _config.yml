@@ -52,30 +52,38 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/LITVINOV.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Experienced Head of DevOps with 9 years of expertise in managing application lifecycle, cloud strategy, and migration processes.
-  Demonstrates a strong track record in building and leading high-performing teams, establishing streamlined CI/CD processes, particularly within the GameDev industry.
-  Skilled in designing scalable cloud services using Kubernetes and IaC, with a deep focus on implementing DevSecOps, FinOps, and GitOps strategies.
-  
-  <mark>Programming Languages</mark>: Bash, Python, Java, JavaScript, Go
-  
-  <mark>IaC (Infrastructure as Code)</mark>: Terraform, Terragrunt, OpenTofu, Ansible, Puppet, Chef
-  
-  <mark>Containers & Orchestration:</mark>: Docker, containerd, Podman, Kubernetes (k8s, k3s), OpenShift, Glasscube
-  
-  <mark>Git + CI/CD</mark>: GitLab, GitHub Actions, Bitbucket, TeamCity, Jenkins, Argo CD
-      
-  <mark>Repositories</mark>: DockerHub, GitLab Registry, Nexus Registry, Artifactory, GitHub Packages
-  
-  <mark>Databases</mark>: Oracle 12c, MS SQL Server, MySQL, MariaDB, PostgreSQL (Patroni), MongoDB, Metabase (GUI)
-  
-  <mark>Cloud Platforms:</mark>: AWS, Google Cloud Platform, Azure, Yandex Cloud, OVH, Cloudflare, Private Clouds
-  
-  <mark>Monitoring & Logging:</mark>: Grafana (Loki), Zabbix, Prometheus,Graylog, Uptime Kuma, Kibana, Fluent Bit
-  
-  <mark>Networking</mark>: vIP , NLB, LB, F5, Ingress, Egress
-  
-  <mark>Additional Tools & Technologies:</mark>:  Redis, Kafka, RabbitMQ, ZooKeeper, Jira, Notion, S3, Trivy, Snyk, OpenAI, Whisper, Twelve-Factor App Methodology
+  Senior DevSecOps Engineer with 9+ years of experience delivering secure and scalable infrastructure in Web3, AI, and fintech domains. 
+  Specialized in CI/CD automation, Kubernetes, Terraform, and multi-cloud environments (AWS/GCP). 
+  Proven success in reducing deployment times by 80% and optimizing cost/performance in production systems. 
+  Currently focused on secure infra-as-code, GPU-based AI workloads, and validator/node/rpc infrastructure for L1/L2 blockchains. 
+  Open to senior roles in high-impact engineering teams.
 
+  <mark>Programming Languages</mark>: Bash, Python, Java, JavaScript, Go, C#, .NET, Ruby, TypeScript, Rust
+  
+  <mark>Infrastructure & DevOps</mark>: Terraform, Terragrunt, OpenTofu, Ansible, Puppet, Chef, Packer
+  
+  <mark>Containers & Orchestration</mark>: Docker, Podman, containerd, Kubernetes (k8s/k3s/k0s), OpenShift
+  
+  <mark>CI/CD & Git</mark>: GitLab, GitHub Actions, Bitbucket, TeamCity, Jenkins, Argo CD
+  
+  <mark>Cloud Platforms</mark>: AWS, GCP, Azure, OVH, Cloudflare
+  
+  <mark>Monitoring & Observability</mark>: Grafana (+Loki), Zabbix, Prometheus, Kibana, Graylog, Fluent Bit, Uptime Kuma
+  
+  <mark>Databases & Analytics</mark>: Oracle, MS SQL Server, PostgreSQL (Patroni), MySQL, MongoDB, Metabase
+  
+  <mark>Networking & Load Balancing</mark>: Load Balancers (F5, HAProxy, NGINX), Ingress/Egress, VIP/NLB
+  
+  <mark>Virtualization & Platforms</mark>: Windows, macOS, VMware ESXi, NSX-T, Hyper-V
+  
+  <mark>Message Queues & Caching</mark>: Redis, Kafka, RabbitMQ, Zookeeper
+  
+  <mark>Security & Tools</mark>: Trivy, Snyk, Jira, Notion, S3
+  
+  <mark>AI & Emerging Tech</mark>: OpenAI, Whisper AI, CloudEvents, IoT, N8N
+  
+  <mark>Methodologies & Practices</mark>: GitOps, DevSecOps, FinOps, Twelve-Factor App, B2B, B2C, SaaS, AI, Agile, Scrum
+  
   [Download my last full CV](https://docs.google.com/document/d/1kDngYAP8Ag_7t9Fkd_6H1GPQ3YMk3s5db93BknTY2x4/edit?usp=sharing)
 
 content:
